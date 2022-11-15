@@ -1,7 +1,7 @@
-<h1 align="center"> AluraBooks </h1>
+<h1 align="center"> Organo </h1>
 
 <p align="center">
-Project of a landing page.
+React Project of register.
 </p>
 
 <br>
