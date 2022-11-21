@@ -13,7 +13,7 @@ React Project of register.
 
 ## 💻 Project
 
-This was a project of Alura.
+This was a project of Alura course.
 
 <a href="https://organo-umber.vercel.app/">Link to the project</a><br>
 
